@@ -1,4 +1,5 @@
 # NLP_course
+Notebooks contain short theoretical explanations and my solutions to the exercises.
 ## Topics covered:
 - Practice 1. - Introduction to Text Processing
 - Practice 2. - Text Analysis
